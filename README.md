@@ -1,4 +1,4 @@
-Spring Projects
+## Spring Projects
 
 This repository contains three Spring projects: "gs-accessing-data-jpa", "booking-sql(demo)", and "rest-service-complete". Each project has its own directory and README file, which you can find below.
 
